@@ -1,0 +1,44 @@
+Variant 9
+Прізвище:_____________
+Група:________________
+1. Чи правильно, що a-b+c=a-(b+c)
+Yes
+No
+2. Quest8?
+(_) answ8-(1)	(_) answ8+(1)	(_) answ8-(2)	
+3. Quest9?
+(_) answ9-(4)
+(_) answ9+(4)
+(_) answ9-(3)
+(_) answ9+(7)
+(_) answ9+(5)
+4. Чи правильно виконано дію множення 2*3=2?
+Yes		No
+5. Quest2type4?
+(_) answ2type4-(3)	(_) answ2type4+(1)	
+(_) answ2type4-(2)	(_) answ2type4-(1)	
+6. Quest4?
+(_) answ4+(1)
+(_) answ4-(3)
+(_) answ4+(2)
+(_) answ4-(4)
+7. a+b+c+d=0. Чи правильно, що -a-b-c-d=0?
+Yes
+No
+8. Quest10?
+(_) answ10-(2)	(_) answ10+(4)	
+(_) answ10+(5)	(_) answ10+(1)	
+(_) answ10-(8)	(_) answ10-(3)	
+(_) answ10+(8)	(_) answ10-(4)	
+9. Дайте розгорнуту вiдповiдь на питання. Що таке Iнтернет?
+
+
+
+10. Дайте коротку вiдповiдь на питання. Що таке мережа?
+
+
+
+
+11. Quest5type4?
+(_) answ5type4+(1)	(_) answ5type4-(8)	(_) answ5type4-(1)	(_) answ5type4-(3)	
+(_) answ5type4-(10)	(_) answ5type4-(9)	(_) answ5type4-(4)	(_) answ5type4-(5)	
